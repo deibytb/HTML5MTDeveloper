@@ -1,0 +1,87 @@
+
+#video video{
+	width: 1300px;
+	margin-left: -230px;
+}
+
+#title h1{
+	font-size: 150px;
+	margin-top: -100px;
+}
+
+#title h3{
+	font-size: 50px;
+	margin-left: 450px;
+}
+
+#agenda h3{
+	text-align: center;
+}
+
+#editores h4{
+	font-size: 150px;
+	text-align: center;
+}
+
+#visualstudio img{
+	width: 120%;
+}
+
+#webessentials img{
+	width: 120%;
+}
+
+#emmet img{
+	width: 120%;
+}
+
+#webmatrix img{
+	width: 120%;
+}
+
+#sublimetext img{
+	width: 120%;
+}
+
+#zencoding img{
+	width: 120%;
+}
+
+#recursos{
+	text-align: center;
+}
+
+#mva img{
+	width: 120%;
+}
+
+#modern img{
+	width: 120%;
+}
+
+#msdn img{
+	width: 120%;
+}
+
+#apple img{
+	width: 120%;
+}
+
+#varios img{
+	width: 60%;
+}
+
+#varios a{
+	float: right;
+	position: relative;
+	font-size: 20px;
+}
+
+
+#social #face{
+	width: 900px;
+}
+#social ul li{
+	margin-top: -30px;
+	font-size: 30px;
+}
